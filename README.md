@@ -3,8 +3,9 @@
 ## Install
 
 0. Clone the repo
-1. You need expo-cli: `npm install -g expo-cli`
-2. Also have Expo client installed in your phone
+1. run `npm install`
+2. You will also need expo-cli: `npm install -g expo-cli`
+3. In order to be able to run the app, you will need the Expo client installed in your phone (can be found in the app/play store)
 
 ## Running
 
