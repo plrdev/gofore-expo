@@ -1,6 +1,6 @@
 import React from "react";
 import { StyleSheet, Text, SafeAreaView } from "react-native";
-import GoforeScreen from "./04/GoforeScreen";
+import GoforeScreen from "./01/GoforeScreen";
 
 export default function App() {
   return (
