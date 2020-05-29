@@ -8,4 +8,5 @@
 
 ## Running
 
-`expo start`
+1. `expo start`
+2. Scan the QR Code that gets opened (iOS Camera App, Android Expo app)
